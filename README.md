@@ -144,7 +144,7 @@ As **Project Lead and primary Full-Stack Developer**, I was responsible for:
 
 ### 💻 Full-Stack Development
 
-#### Database Architecture (100% my work)
+#### Database Architecture (Full Ownership)
 - Designed normalized database schema with **14 tables** and complex relational structures
 - Implemented role-based access control at database level (4 distinct user roles)
 - Created migration scripts and seed data for testing environments
@@ -152,26 +152,27 @@ As **Project Lead and primary Full-Stack Developer**, I was responsible for:
 
 **Key tables:** Users, TORs, Subjects, Grades, Blockchain Transactions, Audit Logs, Sessions, etc.
 
-#### Backend Development (90% my work)
-- Built all API routes using Next.js 13+ App Router
+#### Backend Development (Primary Developer)
+- Built all API routes using Next.js 13+ App Router (except blockchain-specific routes)
 - Implemented authentication system with Auth.js supporting 4 user role types
 - Created secure CRUD endpoints with comprehensive validation using Zod schemas
 - Integrated Redis caching for session management and performance optimization
-- Developed email notification system using Nodemailer for automated workflows
-- **Result:** Reduced form validation errors by 30% through comprehensive schema validation
+- Developed email notification system using Nodemailer and EmailJS for password verification and 2-step authentication
+- **Result:** Reduced form validation errors by 30% through comprehensive Zod schema validation
 
-#### Frontend Development (70% my work, collaborated with designer)
+#### Frontend Development (Led Implementation)
 - Built all major components using Next.js, TypeScript, and React
 - Implemented dynamic Table of Records (TOR) interface with full CRUD operations
 - Created responsive layouts using TailwindCSS and shadcn/ui components
 - Developed PDF generation system with jsPDF for document export
 - Integrated QR code generation for verification workflow
 - Built file upload system handling large documents (10MB+)
-- Designed public verification portal accessible without authentication
 
-#### Integration & Deployment (80% my work)
-- Integrated blockchain smart contracts (developed by teammate) with frontend
-- Connected frontend to backend APIs with proper error handling and loading states
+**Collaboration:** UI/UX design and overall layout by John Dave Justo; Public verification portal by Ronald John Requioma
+
+#### Integration & Deployment (Led Coordination)
+- Integrated blockchain smart contracts (developed by Ronald) into application frontend
+- Connected all frontend-to-backend APIs with proper error handling and loading states
 - Implemented authentication flow across all protected routes
 - Set up Redis caching strategy for optimized performance
 - Deployed to Vercel with CI/CD pipeline configuration
@@ -181,8 +182,23 @@ As **Project Lead and primary Full-Stack Developer**, I was responsible for:
 2. **File Upload Optimization** – Implemented robust file handling for large documents with proper validation and error handling
 3. **Role-Based Permissions** – Built granular access control system with separation of duties throughout application
 4. **PDF Generation** – Created dynamic PDF templates with variable data and embedded QR codes
-5. **Public Verification System** – Built guest-accessible verification portal that maintains privacy while proving authenticity
+5. **Public Verification System** – Enabled guest-accessible verification portal maintaining privacy while proving authenticity
 
+### 👥 Team Collaboration
+**Ronald John Requioma** (Blockchain Developer)
+- Developed Solidity smart contracts and ZkSync deployment
+- Built blockchain-specific API routes
+- Designed public verification portal interface
+
+**John Dave Justo** (UI/UX Designer)
+- Created overall design system and layout specifications
+- Developed UI/UX mockups and component styling guidelines
+- Provided design feedback throughout development
+
+**Mark Vincent Ilagan** (Documentation Specialist)
+- Produced technical documentation and user guides
+- Maintained project documentation
+- Assisted with testing and quality assurance
 ---
 
 ## 📅 Development Process
