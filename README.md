@@ -73,8 +73,8 @@ Academic institutions face challenges with **document verification**, **tamperin
 
 *Fully responsive interface optimized for mobile devices*
 
-### Student Account Demo
-![Student Demo](demo/student-demo.mp4)
+### Workflow Demo
+![Student Demo](demo/demo.mp4)
 
 
 ---
