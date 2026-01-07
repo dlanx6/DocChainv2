@@ -61,7 +61,7 @@ const Page = () => {
   const [error, setError] = useState<string | null>(null);
   const courseGrades = transcriptData ? mapTranscriptToGrades(transcriptData) : [];
 
-  useEffect(() => {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               useEffect(() => {
     if (!studentId) return;
 
     const fetchStudentTOR = async () => {
