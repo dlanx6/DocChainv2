@@ -56,15 +56,13 @@ Academic institutions face challenges with **document verification**, **tamperin
 
 ## 📸 Screenshots
 
-> **Note:** Add screenshots to a `/screenshots` folder in your repository
-
 ### Dashboard View
 ![Dashboard](screenshots/dashboard.png)
 *Admin dashboard showing document overview and quick actions*
 
 ### TOR Generation
 ![TOR Generation](screenshots/tor-generation.png)
-*Form for creating new transcript records with real-time validation*
+*New transcript records with real-time validation. TORs are generated automatically as soon as Student account is created.*
 
 ### Blockchain Verification
 ![Verification](screenshots/verification.png)
@@ -73,6 +71,10 @@ Academic institutions face challenges with **document verification**, **tamperin
 ### Mobile Responsive
 ![Mobile View](screenshots/mobile.png)
 *Fully responsive interface optimized for mobile devices*
+
+### Student Account Demo
+![Student Demo](screenshots/student-demo.mp4)
+
 
 ---
 
