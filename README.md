@@ -2,6 +2,7 @@
 
 > **A production-ready document management system built for Cavite State University (CAVSU)**  
 > Developed through full AGILE lifecycle with client stakeholder engagement (Jan - Nov 2024)
+> IMPORTANT! Since the app uses the free version of Upstash Redis, the redis database has expired. Thus, the live link's authentication no longer works. You can still deploy it yourself!
 
 **🔗 [Live Demo](your-vercel-link-here)** | **💼 [Portfolio](your-portfolio-link)**
 
