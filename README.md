@@ -74,7 +74,7 @@ Academic institutions face challenges with **document verification**, **tamperin
 *Fully responsive interface optimized for mobile devices*
 
 ### Workflow Demo
-![Student Demo](demo/demo.mp4)
+[![Watch Demo](https://raw.githubusercontent.com/KingNoran/DocChainv2/main/demo/thumbnail.png)](https://raw.githubusercontent.com/KingNoran/DocChainv2/main/demo/demo.mp4)
 
 
 ---
