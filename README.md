@@ -680,23 +680,12 @@ For inquiries, collaboration, or questions about this project:
 📧 Email: kenreyes1234567@gmail.com  
 💼 LinkedIn: [linkedin.com/in/ken-reyes-20958227b](https://www.linkedin.com/in/ken-reyes-20958227b/)  
 🐙 GitHub: [github.com/KingNoran](https://github.com/KingNoran)  
-🔗 Portfolio: [Your portfolio link]
-
----
-
-## 📚 Additional Resources
-
-- [Project Documentation](docs/README.md) *(coming soon)*
-- [API Documentation](docs/API.md) *(coming soon)*
-- [Database Schema](docs/DATABASE.md) *(coming soon)*
-- [Smart Contract Documentation](docs/BLOCKCHAIN.md) *(coming soon)*
-- [User Guide](docs/USER_GUIDE.md) *(coming soon)*
 
 ---
 
 **⭐ If this project interests you or you're a recruiter reviewing my work, please star the repository!**
 
-**🎯 Currently seeking OJT placement** — Available for full-stack development roles starting January 2025.
+**🎯 Currently seeking OJT placement** — Available for full-stack development roles starting January 2026.
 
 ---
 
