@@ -228,6 +228,7 @@ This project followed a complete AGILE development cycle:
 - **Iterative feedback loops** dramatically improve product-market fit
 - **Production readiness** requires more than just working code — user experience matters
 - **Separation of duties** in role design prevents security issues and conflicts of interest
+- **Legal Applications** in student TORs. Just because you can doesn't mean you should
 
 ---
 
