@@ -4,7 +4,7 @@
 > Developed through full AGILE lifecycle with client stakeholder engagement (Jan - Nov 2024)
 > IMPORTANT! Since the app uses the free version of Upstash Redis, the redis database has expired. Thus, the live link's authentication no longer works. You can still deploy it yourself!
 
-**🔗 [Live Demo](your-vercel-link-here)** | **💼 [Portfolio](your-portfolio-link)**
+**🔗 [Live Demo](https://doc-chainv2.vercel.app/)**
 
 [![Next.js](https://img.shields.io/badge/Next.js-13+-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
